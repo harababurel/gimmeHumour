@@ -26,6 +26,6 @@ Now, the whole process is reduced to:
 
 1. Press `$mod+j`.
 2. Wait for the beep (should take less than a second).
-3. `Ctrl+V` (or `Shift+Insert`) into textbox.
+3. Press `Ctrl+V` (or `Shift+Insert`) into textbox.
 4. **???**
 5. Profit.
