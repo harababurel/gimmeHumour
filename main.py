@@ -1,6 +1,5 @@
 import json
 import urllib.request
-import pprint
 import random
 
 
